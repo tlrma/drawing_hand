@@ -53,3 +53,5 @@ hand_doodle/
 ├── doodle.py          # Doodle 클래스 + 이미지 추출
 └── requirements.txt
 ```
+
+**이 프로젝트는 "황시은(tlrma)"의 프로젝트이며 원작자 레포지토리의 Contributor로 올라간 SeMinKong은 잘못되었음을 알립니다(https://github.com/tlrma/drawing_hand)(https://github.com/SeMinKong/drawing_hand).**
